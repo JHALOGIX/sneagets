@@ -4,3 +4,6 @@
 3. import sneagetshop.sql in database
 4. url to use `localhost/sneagetshop` for user-side & `localhost/sneagetshop/admin` for admin-side
 5. login username and password can be found in database
+
+# New branch
+1. included branch for bootstrap five to tackle responsiveness issues.
